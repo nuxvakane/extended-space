@@ -3,20 +3,20 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: minimal shrimp
-subtitle: discovering music that matters	
+title: Minimal Shrimp
+subtitle: 	
 description: 
 keywords:
-author: nuxvakane
+author: Nuxvakane
 language: english
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
-root: /
-permalink: :year/:month/
-permalink_defaults:
+# url: 
+# root: 
+# permalink: :year/:month/
+# permalink_defaults:
 
 # Directory
 source_dir: source
@@ -62,7 +62,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 
 # Pagination
